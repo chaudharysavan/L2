@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  }
+  body {
+    background-color:rgb(61, 152, 175)
+
+  }
+  .head 
+  {
+    margin-top: 1rem;
+  }
+  .box 
+   {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3rem;
+  }
+  .form
+   {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(255, 255, 255);
+    width: 600px;
+    height: 500px;
+    box-shadow: 2px 4px 10px rgb(224, 185, 185);
+    border: 1px solid rgba(173, 53, 53, 0.4);
+    border-radius: 20px;
+    padding: 20px;
+  }
+  .input
+   {
+    padding: 10px 15px;
+    border: 2px solid rgba(134, 110, 110, 0.4);
+    font-size: 18px;
+    outline: none;
+    border-radius: 10px;
+    background-color: rgba(43, 42, 42, 0.02);
+  }
+  label
+   {
+    font-size: 18px;
+    letter-spacing: 1.4px;
+  }
+  .tableForm
+   {
+    margin-top: 10px;
+  }
+  .btn
+   {
+    background-color: rgb(183, 64, 119);
+    color: rgba(205, 175, 175, 0.87);
+    padding: 10px 20px;
+    font-size: large;
+    font-weight: 600;
+    border-radius: 10px;
+  }
+  
+  input:invalid:focus {
+    border: 2px solid rgb(34, 255, 0);
+  }
+  
+  .table {
+    background-color: rgb(65, 14, 193);
+    border: 2px solid rgb(48, 14, 14);
+    margin: 40px auto;
+  }
+  
+  .td,
+  .th {
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .subHead {
+    text-align: center;
+    margin-top: 2rem;
+  }
+
+
+
+
+
+
+  /* ******************savn chaudhari******************** */
